@@ -1,5 +1,7 @@
 # Optimal Reset Policy simiulation
 
+By William Cichowski and Michael Chen
+
 ## Simulation Notebook
 
 Our simulation is built up of three functions: run_one_simulation(), randomize_parameters(), and run_simulations().
